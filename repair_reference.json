@@ -1,0 +1,48 @@
+{
+    "verdict": "PARTIAL_SINGLE_PILLAR",
+  "both_pillars_held": false,
+  "spectral_metrics_file": "spectral_metrics_51.json",
+  "diffusion_metrics_file": "diffusion_metrics_51.json",
+  "predictor_metrics_file": "predictor_metrics_51.json",
+  "scorecard": [
+    {
+      "name": "Pure irrational shear control",
+      "slug": "pure_irrational_shear",
+      "R2": "PASS",
+      "R3_R7": "FAIL",
+      "R6": "SURVIVES_THIS_TEST",
+      "spectral_alignment_residual": 5.990502728267769e-15,
+      "noncyclotomic_fraction_denominator_le_32": 0.8,
+      "alpha_fit": 1.5693274893387659,
+      "diffusion_classification": "ballistic_polynomial",
+      "long_horizon_predictor_advantage": -69.353473047291,
+      "verdict": "PARTIAL_SINGLE_PILLAR"
+    },
+    {
+      "name": "LWE-like deterministic shear",
+      "slug": "lwe_deterministic_shear",
+      "R2": "PASS",
+      "R3_R7": "FAIL",
+      "R6": "FAIL_PREDICTABLE",
+      "spectral_alignment_residual": 9.961906419976607e-09,
+      "noncyclotomic_fraction_denominator_le_32": 0.8,
+      "alpha_fit": 1.4905096879419968,
+      "diffusion_classification": "ballistic_polynomial",
+      "long_horizon_predictor_advantage": 0.8610116792237316,
+      "verdict": "PARTIAL_SINGLE_PILLAR"
+    },
+    {
+      "name": "KAM-perturbed shear",
+      "slug": "kam_perturbed_shear",
+      "R2": "PASS",
+      "R3_R7": "FAIL",
+      "R6": "PARTIAL_SHORT_ONLY",
+      "spectral_alignment_residual": 1.0784035592027035e-06,
+      "noncyclotomic_fraction_denominator_le_32": 0.8,
+      "alpha_fit": 1.5252222160090385,
+      "diffusion_classification": "ballistic_polynomial",
+      "long_horizon_predictor_advantage": -0.05878313748045594,
+      "verdict": "PARTIAL_SINGLE_PILLAR"
+    }
+  ]
+}
