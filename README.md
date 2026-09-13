@@ -1,5 +1,7 @@
 # Quest for Entropy #8 — The Crypto Bet
 
+**Article:** [Quest for Entropy #8 — "The Crypto Bet"](https://questforentropy.substack.com/p/the-crypto-bet)
+
 Companion code for the article *The Crypto Bet*.
 
 Six small finite machines of the kind cryptography is built from, run against a list of
