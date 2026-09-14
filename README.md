@@ -1,6 +1,6 @@
 # Quest for Entropy #8 — The Crypto Bet
 
-**Article:** [Quest for Entropy #8 — "The Crypto Bet"](https://questforentropy.substack.com/p/the-crypto-bet)
+**Article:** [Quest for Entropy #8 — "The Crypto Bet"](https://questforentropy.com/p/the-crypto-bet) · also on [Substack](https://questforentropy.substack.com/p/the-crypto-bet)
 
 **Series:** ← [#7 The Lattice That Was Too Perfect](https://github.com/masteris777/quest-for-entropy-the-lattice-that-was-too-perfect) · [#9 The Fluid in the Wave Function](https://github.com/masteris777/quest-for-entropy-the-fluid-in-the-wave-function) →
 
